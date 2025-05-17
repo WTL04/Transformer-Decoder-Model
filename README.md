@@ -1,4 +1,5 @@
 # Character-Level GPT Transformer in PyTorch
+![transformer output](/transformer_output.png)
 
 ## Overview
 
